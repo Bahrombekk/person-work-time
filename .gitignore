@@ -1,0 +1,13 @@
+venv/
+full1.py
+camera_config.json
+yolov8m.pt
+yolov8n.pt
+time_data.json
+r.txt
+out.mp4
+output.mp4
+output1.mp4
+output2.mp4
+output3.mp4
+outpy.avi
