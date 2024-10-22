@@ -77,3 +77,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 --- 
 
 This document will help users understand the project, set it up, and run it effectively. Let me know if you need any further modifications!
+
+[Click here to watch the demo video](output.webm)
